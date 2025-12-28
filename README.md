@@ -1,9 +1,9 @@
 # 🏢 AetherTech – Modular Inventory, Cart & Order System
 
 AetherTech is a full-stack modular system designed for retail & product-based businesses.  
-It includes authentication, product management, cart services, and customer order processing — all powered by microservices architecture and event-driven communication.
+It includes authentication, product management, cart services, and customer order processing, all powered by microservices architecture and event-driven communication.
 
----
+
 
 ## 📌 System Overview
 
@@ -40,7 +40,7 @@ This project includes multiple services working together:
 - All services run in isolated containers
 - Uses **Docker Compose** for easy startup & deployment
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -52,7 +52,7 @@ This project includes multiple services working together:
 | **Messaging**| RabbitMQ |
 | **DevOps**   | Docker, Docker Compose |
 
----
+
 
 ## 🌐 Original GitHub Repository
 
